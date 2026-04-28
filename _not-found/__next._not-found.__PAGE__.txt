@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/blog/_next/static/chunks/14m1tdbm-uzzp.js","/blog/_next/static/chunks/0d3shmwh5_nmn.js","/blog/_next/static/chunks/15ika4zy8_z34.js"],""]
+3:I[97367,["/blog/_next/static/chunks/14m1tdbm-uzzp.js","/blog/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[50vh] text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-gray-300 mb-4","children":"404"}],["$","p",null,{"className":"text-lg text-slate-secondary mb-6","children":"페이지를 찾을 수 없습니다."}],["$","$L2",null,{"href":"/","className":"text-teal-accent hover:text-teal-hover underline text-sm","children":"홈으로 돌아가기"}]]}],[["$","script","script-0",{"src":"/blog/_next/static/chunks/15ika4zy8_z34.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZfV_1B_QkI4BDnUg64N_t"}
+5:null
