@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://epii2zero.github.io/blog/sitemap.xml
