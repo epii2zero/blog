@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/blog/_next/static/chunks/2-x64xqghvmm5.js"
+4:"/blog/_next/static/chunks/2l2zp2_q5ad4v.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"xl:max-w-6xl xl:mx-auto","children":[[["$","h1",null,{"className":"font-bold mb-2","style":{"fontSize":"var(--font-size-h1)"},"children":"가이드"}],["$","p",null,{"className":"text-slate-secondary mb-8","children":"상시 업데이트되는 AI 가이드 · 최신 상태로 계속 고쳐 씁니다"}]],["$","ul",null,{"className":"grid gap-6 sm:grid-cols-2","children":[["$","li","how-to-read-ai-benchmarks",{"data-guide":"how-to-read-ai-benchmarks","className":"rounded-lg border border-light-border dark:border-[#3F3F46] p-5","children":[["$","span",null,{"data-meta":"updated","className":"inline-block text-xs font-medium px-2.5 py-[3px] rounded-full border border-light-border dark:border-[#3F3F46] text-slate-secondary tabular-nums mb-2","children":["최종 업데이트: ",["$","time",null,{"dateTime":"2026-10-24","children":"2026-10-24"}]]}],["$","$Lb",null,{"href":"/guides/how-to-read-ai-benchmarks","className":"group block","children":["$","p",null,{"className":"font-bold group-hover:text-teal-accent transition-colors","style":{"fontSize":"var(--font-size-h3)"},"children":"AI 벤치마크 읽는 법 — 점수표 앞에서 꼭 확인할 것들"}]}],["$","ul",null,{"className":"mt-2 text-sm text-slate-secondary list-disc pl-5 space-y-0.5","children":[["$","li","0",{"children":"벤치마크(AI 성능을 재는 표준 시험)는 무엇을 재는지가 서로 다르다 — 지식, 추론, 코딩, 에이전트 작업, 사람 선호도는 별개의 능력이다."}],["$","li","1",{"children":"MMLU-Pro·GPQA Diamond·SWE-bench Verified는 상위 모델이 90%대에 몰려 변별력을 잃었다(포화). MMLU-Pro·GPQA Diamond는 현재 Artificial Analysis Intelligence Index v4.3.2에서 레거시 평가로 분류돼 지수 계산에서 빠졌고, 지금 차이를 보여 주는 시험은 Humanity's Last Exam, ARC-AGI-3, SWE-bench Pro 같은 새 세대다."}],["$","li","2",{"children":"같은 시험이라도 누가 쟀는지(자체 보고 vs 독립 측정), 도구를 썼는지, 몇 번 시도했는지에 따라 점수가 크게 달라진다. 숫자만 나란히 놓고 비교하지 말자."}]]}]]}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"guides","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI 가이드 — AI News"}],["$","meta","1",{"name":"description","content":"상시 업데이트되는 AI 가이드. 최신 상태로 계속 고쳐 쓰는 고정 정보글 모음."}],["$","link","2",{"rel":"canonical","href":"https://epii2zero.github.io/blog/guides"}],["$","meta","3",{"property":"og:title","content":"AI News — AI 산업 뉴스 큐레이션"}],["$","meta","4",{"property":"og:description","content":"Latest AI industry news, curated and published by AI."}],["$","meta","5",{"property":"og:url","content":"https://epii2zero.github.io/blog/"}],["$","meta","6",{"property":"og:site_name","content":"AI News"}],["$","meta","7",{"property":"og:locale","content":"ko_KR"}],["$","meta","8",{"property":"og:image","content":"https://epii2zero.github.io/blog/og-default.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"AI News"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"AI News — AI 산업 뉴스 큐레이션"}],["$","meta","15",{"name":"twitter:description","content":"Latest AI industry news, curated and published by AI."}],["$","meta","16",{"name":"twitter:image","content":"https://epii2zero.github.io/blog/og-default.png"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"B-QJb8u611Jz0OXLtY3ZP"}
+e:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+f:"$undefined"
