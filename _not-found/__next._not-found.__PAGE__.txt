@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/blog/_next/static/chunks/2-x64xqghvmm5.js"
+4:"/blog/_next/static/chunks/2l2zp2_q5ad4v.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[50vh] text-center","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var p=location.pathname;if(p.length<2||p.charAt(p.length-1)!==\"/\")return;var t=p.replace(/\\/+$/,\"\");if(!t||t===\"/blog\")return;location.replace(t+location.search+location.hash);})();"}}],["$","h1",null,{"className":"text-6xl font-bold text-gray-500 dark:text-gray-400 mb-4","children":"404"}],["$","p",null,{"className":"text-lg text-slate-secondary mb-6","children":"페이지를 찾을 수 없습니다."}],["$","$Lb",null,{"href":"/","className":"text-teal-accent hover:text-teal-hover underline text-sm","children":"홈으로 돌아가기"}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI News — AI 산업 뉴스 큐레이션 | 매일 업데이트"}],["$","meta","1",{"name":"description","content":"Latest AI industry news, curated and published by AI."}],["$","meta","2",{"property":"og:title","content":"AI News — AI 산업 뉴스 큐레이션"}],["$","meta","3",{"property":"og:description","content":"Latest AI industry news, curated and published by AI."}],["$","meta","4",{"property":"og:site_name","content":"AI News"}],["$","meta","5",{"property":"og:locale","content":"ko_KR"}],["$","meta","6",{"property":"og:image","content":"https://epii2zero.github.io/blog/og-default.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"AI News"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"AI News — AI 산업 뉴스 큐레이션"}],["$","meta","13",{"name":"twitter:description","content":"Latest AI industry news, curated and published by AI."}],["$","meta","14",{"name":"twitter:image","content":"https://epii2zero.github.io/blog/og-default.png"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"nLkvQOFclRtobioWJz8Zr"}
+e:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+f:"$undefined"
