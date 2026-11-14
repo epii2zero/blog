@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/blog/_next/static/chunks/21aaihxsflr7z.js"
+4:"/blog/_next/static/chunks/0c16hx8xt6_47.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"xl:max-w-6xl xl:mx-auto","children":[[["$","h1",null,{"className":"font-bold mb-2","style":{"fontSize":"var(--font-size-h1)"},"children":"시리즈"}],["$","p",null,{"className":"text-slate-secondary mb-8","children":"기술 블로그 · 편 단위로 이어 읽는 심층 시리즈"}]],["$","ul",null,{"className":"grid gap-6 sm:grid-cols-2","children":[["$","li","cpp-design-patterns",{"data-series":"cpp-design-patterns","className":"min-w-0 rounded-lg border border-light-border dark:border-[#3F3F46] p-5","children":[["$","p",null,{"className":"text-xs text-slate-secondary mb-2 tabular-nums","children":["9편 중 2편 공개"," · 난이도 입문~중급"]}],["$","$Lb",null,{"href":"/series/cpp-design-patterns","className":"group block","children":["$","p",null,{"className":"font-bold [overflow-wrap:anywhere] group-hover:text-teal-accent transition-colors","style":{"fontSize":"var(--font-size-h3)"},"children":"C++ 디자인 패턴 — 현대 C++로 다시 읽는 설계"}]}],["$","p",null,{"className":"mt-2 text-sm text-slate-secondary [overflow-wrap:anywhere]","children":"GoF 패턴을 현대 C++의 소유권·값 의미론·템플릿으로 다시 설계하고, 언제 패턴 대신 언어 기능을 쓰는지 판단 기준을 정리합니다."}]]}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"series","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"시리즈 — 기술 블로그 — AI News"}],["$","meta","1",{"name":"description","content":"편 단위로 이어지는 심층 기술 시리즈. 코드는 컴파일러로 검증하고, 검토일과 변경 이력을 함께 공개합니다."}],["$","link","2",{"rel":"canonical","href":"https://epii2zero.github.io/blog/series"}],["$","meta","3",{"property":"og:title","content":"AI News — AI 산업 뉴스 큐레이션"}],["$","meta","4",{"property":"og:description","content":"Latest AI industry news, curated and published by AI."}],["$","meta","5",{"property":"og:url","content":"https://epii2zero.github.io/blog/"}],["$","meta","6",{"property":"og:site_name","content":"AI News"}],["$","meta","7",{"property":"og:locale","content":"ko_KR"}],["$","meta","8",{"property":"og:image","content":"https://epii2zero.github.io/blog/og-default.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"AI News"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"AI News — AI 산업 뉴스 큐레이션"}],["$","meta","15",{"name":"twitter:description","content":"Latest AI industry news, curated and published by AI."}],["$","meta","16",{"name":"twitter:image","content":"https://epii2zero.github.io/blog/og-default.png"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"q1tpZidfWPT_N7cxwA1Y9"}
+e:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+f:"$undefined"
