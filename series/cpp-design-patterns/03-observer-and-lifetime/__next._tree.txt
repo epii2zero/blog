@@ -1,0 +1,8 @@
+:HL["/blog/_next/static/chunks/1zbofmdbexryj.css","style"]
+:HL["/blog/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/blog/_next/static/media/53897e768d329f66-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"03-observer-and-lifetime","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"series","t":"d","k":"cpp-design-patterns","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"series","h":131136,"c":"$Q2"}]]
+0:{"b":"4gRe3-PH4GIAl4USOIjVB","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
